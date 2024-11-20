@@ -1,7 +1,7 @@
 <h1 align="center">Myself Rocky Dewan</h1>
 <h3 align="center">A passionate software Engineer also cyber security specialist (Will be One Day)</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-- 🌱 I’m currently learning **Machine Learning , Web Application developement**
+- 🌱 I’m currently learning **Machine Learning , Web Application development**
 
 - 📫 How to reach me **dewanrocky250@gmail.com**
 
